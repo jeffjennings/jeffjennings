@@ -1,6 +1,6 @@
 ### Hello! I'm Jeff<sup>*</sup>. 
 
-<sup>*</sup>(Jeffrey if I'm in trouble)
+<sup>*</sup>Or as I call myself, Batman.
 
 I'm a PhD student in the [Institute of Astronomy](https://www.ast.cam.ac.uk/) at the University of Cambridge. I work on super-resolution aperture synthesis techniques for radio interferometry 📡--📡; I try to make images of protoplanetary disks 📀 and debris disks 💍 look a bit sharper 🔪 👀.   
 
@@ -11,4 +11,4 @@ I'm on some papers:
 And some codes:
 - Frankenstein ([`frank`](https://github.com/discsim/frank))
 
-Don't hesitate to [reach out](jmj51@ast.cam.ac.uk)!
+Don't hesitate to [reach out](mailto:jmj51@ast.cam.ac.uk)!
