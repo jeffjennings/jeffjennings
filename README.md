@@ -1,7 +1,4 @@
-### Hi! I'm Jeff<sup>*</sup>. 
+### Hi! I'm Jeff.
 
-<sup>*</sup>Or as I call myself, Batman.
-
-I'm an Eberly Postdoctoral Research Fellow in the Astronomy department at Pennsylvania State University.  
-I work on super-resolution aperture synthesis techniques for radio interferometry 📡--📡 ;   
-I try to make images of protoplanetary disks 📀 and debris disks 💍 look a bit sharper 🔪 👀.
+I'm an Eberly Postdoctoral Research Fellow in the Department of Astronomy and Astrophysics at The Pennsylvania State University.  
+I work on statistical algorithms to analyze and forward model datasets in radio astronomy, focusing on Fourier analysis, Bayesian statistics, Gaussian processes, and machine learning methods. My main application is super-resolution imaging of ALMA observations of protoplanetary and debris disks.
