@@ -1,4 +1,4 @@
 ### Hi! I'm Jeff.
 
 I'm an Eberly Postdoctoral Research Fellow in the Department of Astronomy and Astrophysics at The Pennsylvania State University.  
-I work on statistical and mathematical algorithms to analyze and forward model datasets in radio astronomy, focusing on Fourier analysis, Gaussian processes, machine learning methods, and Bayesian statistics. My main application is super-resolution imaging of ALMA observations of protoplanetary and debris disks.
+I work on mathematical and statistical algorithms to model and analyze datasets in (mostly sub-mm) astronomy, with a strong interest in open-source software development. My main scientific application is super-resolution imaging of ALMA observations of protoplanetary and debris disks.
