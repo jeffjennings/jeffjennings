@@ -4,5 +4,4 @@ I'm an Eberly Postdoctoral Research Fellow in the Department of Astronomy and As
 
 - [Academic CV](https://jeffjennings.github.io/cv/cv.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jeff-m-jennings/)
-- [Physics and astronomy publications on Google Scholar](http://bit.ly/jennings_googlescholar)
-- [Astronomy publications on NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-7032-2350&sort=date+desc)
+- [Research publications on Google Scholar](http://bit.ly/jennings_googlescholar)
