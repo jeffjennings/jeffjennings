@@ -3,3 +3,5 @@ Hello! I'm a research software engineer at the Center for Computational Astrophy
 - [Academic CV](https://jeffjennings.github.io/cv/cv.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jeff-m-jennings/)
 - [Research publications on Google Scholar](http://bit.ly/jennings_googlescholar)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffjennings)](https://github.com/anuraghazra/github-readme-stats)
